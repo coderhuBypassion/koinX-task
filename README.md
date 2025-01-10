@@ -1,6 +1,3 @@
-I'll help you create a comprehensive README.md file for your project:
-
-```markdown:README.md
 # Cryptocurrency Price Tracker
 
 A Node.js application that tracks cryptocurrency prices using the CoinGecko API and stores the data in MongoDB. The application includes a background job that fetches price data every 2 hours and provides APIs to retrieve statistics and price deviations.
